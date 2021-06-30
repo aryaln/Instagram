@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="name_place_holder">Name place holder</string>
+</resources>
